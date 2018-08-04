@@ -1,1 +1,1 @@
-# Core-Java-Assignment-Java-Basics-2
+# Core-Java-Assignment-Basics-2
